@@ -7,6 +7,10 @@ It implements a minimal 3D pipeline without relying on WebGL or external librari
 The goal is to understand the basic ideas behind 3D graphics: coordinate systems, projection,
 transformations, and mesh rendering.
 
+```bash
+    open rendering3d.html
+``` 
+
 ## Perspective Projection
 
 A 3D point `(x, y, z)` is projected into 2D space using a very simple perspective projection:
